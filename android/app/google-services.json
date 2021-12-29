@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "896779540514",
+    "firebase_url": "https://pjmpalmerah.firebaseio.com",
+    "project_id": "pjmpalmerah",
+    "storage_bucket": "pjmpalmerah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896779540514:android:b284889099c3caa9f3527b",
+        "android_client_info": {
+          "package_name": "com.toko.pjm_palmerah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896779540514-ltm5ndfq90a9dmimuageh893caffm9pl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toko.pjm_palmerah",
+            "certificate_hash": "b5c8ed506879ba1285484c25b135b0f16c60a1c8"
+          }
+        },
+        {
+          "client_id": "896779540514-f13vkdqns4m6fhm2vlqpcepn4ad7f1sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkWwJa-Eld5ygOf0SMAOe2FWWb6-QK0Ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896779540514-f13vkdqns4m6fhm2vlqpcepn4ad7f1sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
